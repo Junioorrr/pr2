@@ -59,6 +59,4 @@ def main():
     mensaje_desencriptado = desencriptar(mensaje_encriptado, clave)
     print(f"Mensaje desencriptado: {mensaje_desencriptado}")
 
-# Llamar a la función principal si el script se ejecuta directamente
-if __name__ == "__main__":
-    main()
+
